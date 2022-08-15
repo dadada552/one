@@ -1,0 +1,62 @@
+[{
+        "name": "用户",
+        "id": 1,
+        "icon": "UserFilled",
+        "children": [{
+                "name": "学员管理",
+                "id": 11,
+                "url":"about"
+            },
+            {
+                "name": "讲师管理",
+                "id": 12,
+                "url": "other"
+
+            },
+            {
+                "name": "助教管理",
+                "id": 13
+            }
+        ]
+    },
+    {
+        "name": "教学",
+        "id": 2,
+        "icon": "Management"
+    },
+    {
+        "name": "题库",
+        "id": 3,
+        "icon": "Checked"
+    },
+    {
+        "name": "运营",
+        "id": 4,
+        "icon": "TrendCharts"
+    },
+    {
+        "name": "营销",
+        "id": 5,
+        "icon": "Menu"
+    },
+    {
+        "name": "商品",
+        "id": 6,
+        "icon": "Shop"
+    },
+    {
+        "name": "财务",
+        "id": 7,
+        "icon": "Briefcase"
+    },
+    {
+        "name": "统计",
+        "id": 8,
+        "icon": "Histogram"
+    },
+    {
+        "name": "系统",
+        "id": 9,
+        "icon": "Tools"
+    }
+]
